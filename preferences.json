@@ -1,0 +1,10 @@
+{ 
+	"my_preferences":
+	{ 
+		"favorite_films": ["Joker", "Cruel Intentions", "The King"],
+		"favorite_serials": ["Game of thrones", "Friends", "Your Honor"],
+		"favorite_food": ["draniki", "pizza", "salads"],
+		"favorite_season": "autumn",
+		"country_to_visit": "Australia"
+	}
+}
