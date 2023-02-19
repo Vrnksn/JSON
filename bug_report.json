@@ -1,1 +1,23 @@
+{
+  "Issue Title": "...",
+  "Issue Type": "Bug",
+  "Priority": "Low",
+  "Issue Status": "Blocked",
+  "Severety": "High",
+  "Build": 
+  "Environment":
 
+  "Issue Description"
+  "Steps to reproduce":
+  [
+  1. "..."
+  2. "..."
+  3. "..."
+  4. "..."
+  5. "..."]
+
+  "Ecpected result": "...",
+  "Actual Result": "..."
+}
+  
+  
