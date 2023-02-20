@@ -3,7 +3,7 @@
   "Issue Type": "Bug",
   "Priority": "Low",
   "Issue Status": "Blocked",
-  "Severety": "High",
+  "Severety": "Minor",
   "Build": 
   "Environment":
 
@@ -15,7 +15,7 @@
   "4.": "...",
   "5.": "..."]
 
-  "Ecpected result": "...",
+  "Expected result": "...",
   "Actual Result": "..."
 }
   
